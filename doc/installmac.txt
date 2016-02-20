@@ -1,0 +1,4 @@
+On mac if you get 
+    fatal error: 'cxxtest/TestListener.h' file not found
+xcode-select --install
+See http://stackoverflow.com/questions/23905661/on-mac-g-fails-to-search-usr-local-include-and-usr-local-lib-by-default
